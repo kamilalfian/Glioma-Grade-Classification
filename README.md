@@ -49,21 +49,21 @@ by only using 5 features.
 - **Primary_Diagnosis:** Type of primary diagnosis information.
 
 ## Procedures
-1. Data Preprocessing
-   -Importing Data
-   -Exploratory Data Analysis
-   -Encoding
-   -Imputation
-   -Min-Max Scaling
-   -Dropping unimportant Features
-2. Hyperparameter Tuning and Modeling
-   -Logistic Regression
-   -K-Nearest Neighbors
-   -Naive Bayes
-   -Support Vector Machine
-3. Model Comparison
-   -Accuracy
-   -Learning Curve
-   -Classification Report
+1. Data Preprocessing<br>
+   -Importing Data<br>
+   -Exploratory Data Analysis<br>
+   -Encoding<br>
+   -Imputation<br>
+   -Min-Max Scaling<br>
+   -Dropping unimportant Features<br>
+2. Hyperparameter Tuning and Modeling<br>
+   -Logistic Regression<br>
+   -K-Nearest Neighbors<br>
+   -Naive Bayes<br>
+   -Support Vector Machine<br>
+3. Model Comparison<br>
+   -Accuracy<br>
+   -Learning Curve<br>
+   -Classification Report<br>
 
 **Note: Please refer to requirements.txt for dependencies. I used numpy 1.23.5 for this project. Most of other version including 1.24 above seem to cause errors/**
